@@ -1,0 +1,2 @@
+# rice
+new-repo-form
